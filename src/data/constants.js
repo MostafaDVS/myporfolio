@@ -357,25 +357,25 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Whatsapp Clone",
-    date: "Jul 2021",
+    title: "Online Store UI",
+    date: "Jul 2022",
     description:
-      "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
+      "An online store Website UI.",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
-    tags: ["React Js", "Firebase", "Firestore", "Node JS"],
+      "https://s3-alpha.figma.com/hub/file/4541113533/resized/800x480/415ca501-9c77-4da2-86b7-d7982c3a2be7-cover.png",
+    tags: ["Figma"],
     category: "UI/UX",
     
   },
   {
     id: 4,
-    title: "Whatsapp Clone",
+    title: "Drinks",
     date: "Jul 2021",
     description:
-      "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
+      "A mobile application UI design for a Drinks Shop",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
-    tags: ["React Js", "Firebase", "Firestore", "Node JS"],
+      "https://s3-alpha.figma.com/hub/file/4528113407/resized/800x480/498acc32-490b-4aab-bb20-f0b332bae88a-cover.png",
+    tags: ["Figma"],
     category: "UI/UX",
     
   }

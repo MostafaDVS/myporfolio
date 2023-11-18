@@ -26,6 +26,12 @@ const Projects = ({openModal,setOpenModal}) => {
             :
             <ToggleButton value="web app" onClick={() => setToggle('web app')}>WEB APP'S</ToggleButton>
           }
+          <Divider />
+          {toggle === 'UI/UX' ?
+            <ToggleButton active value="UI/UX" onClick={() => setToggle('UI/UX')}>UI/UX'S</ToggleButton>
+            :
+            <ToggleButton value="UI/UX" onClick={() => setToggle('UI/UX')}>UI/UX'S</ToggleButton>
+          }
         </ToggleButtonGroup>
         <CardContainer>
           {toggle === 'all' && projects
