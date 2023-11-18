@@ -97,9 +97,9 @@ export const Img = styled.img`
   position: relative;
   width: 50%;
   height: 50%;
-  max-width: 550px;
-  max-height: 550px;
-  border-radius: 0%;
+  max-width: auto;
+  max-height: auto;
+  border-radius: 50%;
   border: 1px solid ${({ theme }) => theme.primary};
 
   @media (max-width: 768px) {
