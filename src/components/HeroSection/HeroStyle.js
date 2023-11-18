@@ -95,8 +95,8 @@ export const HeroRightContainer = styled.div`
 
 export const Img = styled.img`
   position: relative;
-  width: 100%;
-  height: 100%;
+  width: 50%;
+  height: 50%;
   max-width: 550px;
   max-height: 550px;
   border-radius: 0%;
