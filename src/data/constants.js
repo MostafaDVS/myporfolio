@@ -369,8 +369,8 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Drinks",
-    date: "Jul 2021",
+    title: "Drinks Store Mobile App Ui",
+    date: "Aug 2023",
     description:
       "A mobile application UI design for a Drinks Shop",
     image:
