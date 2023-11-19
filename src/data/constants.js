@@ -263,26 +263,21 @@ export const education = [
 export const projects = [
   {
     id: 9,
-    title: "Trackify",
+    title: "Netflix Clone",
     date: "Jun 2023 - Jul 2023",
     description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+      "Netflix Clone is a Clone of the known streaming service NETFLIX ",
     image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+      "https://iili.io/JnM1Eps.png",
     tags: [
-      "Docker",
-      "AWS",
-      "DuckDNS",
-      "Eslint",
-      "Husky",
-      "CI/CD",
+      "Javascript",
+      "CSS3",
       "React Js",
-      "MongoDb",
       "Node Js",
-      "Express Js",
       "Redux",
     ],
     category: "web app",
+    webapp : "https://mynetflixclone-beta.vercel.app"
     
   },
   {
@@ -365,6 +360,7 @@ export const projects = [
       "https://s3-alpha.figma.com/hub/file/4541113533/resized/800x480/415ca501-9c77-4da2-86b7-d7982c3a2be7-cover.png",
     tags: ["Figma"],
     category: "UI/UX",
+    
     
   },
   {
