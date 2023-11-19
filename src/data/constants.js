@@ -346,7 +346,7 @@ export const projects = [
     description:
       "An online store Website UI.",
     image:
-      "https://s3-alpha.figma.com/hub/file/4541113533/resized/800x480/415ca501-9c77-4da2-86b7-d7982c3a2be7-cover.png",
+      "https://i.ytimg.com/vi/wwGv55P4Oik/maxresdefault.jpg",
     tags: ["Figma"],
     category: "UI/UX",
     
@@ -359,7 +359,7 @@ export const projects = [
     description:
       "A mobile application UI design for a Drinks Shop",
     image:
-      "https://s3-alpha.figma.com/hub/file/4528113407/resized/800x480/498acc32-490b-4aab-bb20-f0b332bae88a-cover.png",
+      "https://s3-alpha.figma.com/hub/file/1681918421/d0bca50b-f919-4883-8369-809bca46bdd4-cover.png",
     tags: ["Figma"],
     category: "UI/UX",
     
