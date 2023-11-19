@@ -280,6 +280,31 @@ export const projects = [
     webapp : "https://mynetflixclone-beta.vercel.app"
     
   },
+  {
+    id: 3,
+    title: "EVOGYM ",
+    date: "jun 2023 - Jul 2023",
+    description:
+      "A gym website .",
+    image:
+      "https://iili.io/JnM60c7.png",
+    tags: ["React Native", "TypeScript", "Axios","Tailwind"],
+    category: "web app",
+    webapp : "https://mygymwebsite.vercel.app"
+  },
+  {
+    id: 2,
+    title: "Sneaker World",
+    date: "Jan 2023 - Mar 2023",
+    description:
+      "A Website for a sneaker customization Company .",
+    image:
+      "https://iili.io/JnMgIyb.png",
+    tags: ["React js", "Javascript", "HTML5", "CSS3", "Vite", "Node"],
+    category: "web app",
+    
+    
+  },
   
   {
     id: 1,
@@ -300,31 +325,8 @@ export const projects = [
     category: "web app",
     
   },
-  {
-    id: 2,
-    title: "Sneaker World",
-    date: "Jan 2023 - Mar 2023",
-    description:
-      "A Website for a sneaker customization Company .",
-    image:
-      "https://iili.io/JnMgIyb.png",
-    tags: ["React js", "Javascript", "HTML5", "CSS3", "Vite", "Node"],
-    category: "web app",
-    
-    
-  },
-  {
-    id: 3,
-    title: "EVOGYM ",
-    date: "jun 2023 - Jul 2023",
-    description:
-      "A gym website .",
-    image:
-      "https://iili.io/JnM60c7.png",
-    tags: ["React Native", "TypeScript", "Axios","Tailwind"],
-    category: "web app",
-    webapp : "https://mygymwebsite.vercel.app"
-  },
+ 
+ 
   {
     id: 4,
     title: "Whatsapp Clone",
