@@ -309,7 +309,7 @@ export const projects = [
     image:
       "https://iili.io/JnMgIyb.png",
     tags: ["React js", "Javascript", "HTML5", "CSS3", "Vite", "Node"],
-    category: "Web App",
+    category: "web app",
     
     
   },
