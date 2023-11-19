@@ -280,20 +280,7 @@ export const projects = [
     webapp : "https://mynetflixclone-beta.vercel.app"
     
   },
-  {
-    id: 0,
-    title: "Podstream",
-    date: "Apr 2023 - May 2023",
-    description:
-      "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
-    image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
-    category: "web app",
-    
-    
-    
-  },
+  
   {
     id: 1,
     title: "Vexa",
@@ -315,28 +302,28 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Brain Tumor Detection",
+    title: "Sneaker World",
     date: "Jan 2023 - Mar 2023",
     description:
-      "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
+      "A Website for a sneaker customization Company .",
     image:
-      "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
-    category: "machine learning",
+      "https://iili.io/JnMgIyb.png",
+    tags: ["React js", "Javascript", "HTML5", "CSS3", "Vite", "Node"],
+    category: "Web App",
     
     
   },
   {
     id: 3,
-    title: "Job Finding App",
-    date: "Jun 2023 - Jul 2023",
+    title: "EVOGYM ",
+    date: "jun 2023 - Jul 2023",
     description:
-      "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
+      "A gym website .",
     image:
-      "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
-    tags: ["React Native", "JavaScript", "Axios"],
-    category: "android app",
-    
+      "https://iili.io/JnM60c7.png",
+    tags: ["React Native", "TypeScript", "Axios","Tailwind"],
+    category: "web app",
+    webapp : "https://mygymwebsite.vercel.app"
   },
   {
     id: 4,
