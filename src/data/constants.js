@@ -197,6 +197,9 @@ export const experiences = [
       "HTML",
       "CSS",
       "JavaScript",
+      "Figma",
+      "Adobe Illustrator",
+      "Adobe XD"
     ],
   },
   
