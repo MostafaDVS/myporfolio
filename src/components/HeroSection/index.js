@@ -1,8 +1,8 @@
 import React from 'react'
 import HeroBgAnimation from '../HeroBgAnimation'
 import { HeroContainer, HeroBg, HeroLeftContainer, Img, HeroRightContainer, HeroInnerContainer, TextLoop, Title, Span, SubTitle,SocialMediaIcons,SocialMediaIcon, ResumeButton } from './HeroStyle'
-import HeroImg from '../../images/HeroImage.jpg'
-import resume from '../../images/cv.pdf'
+import HeroImg from '../../images/HeroImage.png'
+import resume from '../../images/MostafaBrahmia.pdf'
 import Typewriter from 'typewriter-effect';
 import { Bio } from '../../data/constants';
 
