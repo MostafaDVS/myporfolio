@@ -12,7 +12,7 @@ const Projects = ({openModal,setOpenModal}) => {
       <Wrapper>
         <Title>Projects</Title>
         <Desc>
-          Here are some of my projects.
+          Here are some of my personal projects.
         </Desc>
         <ToggleButtonGroup >
           {toggle === 'all' ?
